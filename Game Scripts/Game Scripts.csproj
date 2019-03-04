@@ -100,7 +100,6 @@
     <Compile Include="Assets\Script\Skill System\Buff System\UnitCtrl for buff.cs" />
     <Compile Include="Assets\Script\Skill System\Chell&apos;s Skill.cs" />
     <Compile Include="Assets\Script\Skill System\Missile.cs" />
-    <Compile Include="Assets\Script\Skill System\NewSkillSystem.cs" />
     <Compile Include="Assets\Script\Skill System\SingleAttack.cs" />
     <Compile Include="Assets\Script\Skill System\SkillData.cs" />
     <Compile Include="Assets\Script\Skill System\SpellLauncher.cs" />
